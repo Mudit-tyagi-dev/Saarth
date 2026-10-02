@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <>
-    <h1>HELoo</h1></>
+    <h1 className="text-6xl font-bold  text-center ">Welcome to Saarth</h1></>
   )
 }
 
